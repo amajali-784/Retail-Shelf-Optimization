@@ -279,7 +279,7 @@ The Streamlit dashboard provides:
 # Installation
 
 ```bash
-git clone https://github.com/yourusername/Retail-Shelf-Optimization.git
+git clone https://github.com/amajali-784/Retail-Shelf-Optimization.git
 
 cd Retail-Shelf-Optimization
 
