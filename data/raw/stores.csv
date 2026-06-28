@@ -1,0 +1,13 @@
+store_id,store_name,region,store_format,footfall_index,shelf_capacity_cm
+UK_ONLINE,United Kingdom Online Store,United Kingdom,Online Retail,2.2,1450
+NETHERLANDS,Netherlands Online Store,Netherlands,Online Retail,1.028,1450
+EIRE,EIRE Online Store,EIRE,Online Retail,2.2,1450
+GERMANY,Germany Online Store,Germany,Online Retail,2.2,1450
+FRANCE,France Online Store,France,Online Retail,2.2,1450
+AUSTRALIA,Australia Online Store,Australia,Online Retail,0.619,1450
+SPAIN,Spain Online Store,Spain,Online Retail,0.972,1450
+SWITZERLAND,Switzerland Online Store,Switzerland,Online Retail,0.552,1450
+JAPAN,Japan Online Store,Japan,Online Retail,0.5,1450
+BELGIUM,Belgium Online Store,Belgium,Online Retail,1.083,1450
+SWEDEN,Sweden Online Store,Sweden,Online Retail,0.5,1450
+NORWAY,Norway Online Store,Norway,Online Retail,0.5,1450

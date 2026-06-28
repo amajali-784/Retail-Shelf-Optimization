@@ -1,0 +1,16 @@
+{
+  "rows": 527580,
+  "date_range": [
+    "2010-12-01",
+    "2011-12-09"
+  ],
+  "revenue": 10268764.33,
+  "quantity": 5576817,
+  "invoices": 19773,
+  "customers": 4334,
+  "countries": 38,
+  "products": 3902,
+  "avg_order_value": 519.33,
+  "top_country": "United Kingdom",
+  "top_product": "Regency Cakestand 3 Tier"
+}

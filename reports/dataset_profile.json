@@ -1,0 +1,12 @@
+{
+  "source": "UCI Machine Learning Repository - Online Retail",
+  "source_url": "https://archive.ics.uci.edu/static/public/352/online+retail.zip",
+  "raw_rows": 541909,
+  "clean_rows": 527580,
+  "products_selected": 180,
+  "stores_selected": 12,
+  "daily_rows": 552024,
+  "basket_rows": 131937,
+  "date_min": "2010-12-01",
+  "date_max": "2011-12-09"
+}

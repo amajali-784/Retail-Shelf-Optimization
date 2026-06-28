@@ -1,0 +1,12 @@
+{
+  "rows_train": 469368,
+  "rows_test": 82656,
+  "mae_units": 2.669,
+  "baseline_mae_units": 5.861,
+  "rmse_units": 281.803,
+  "wape": 0.478,
+  "r2": 0.019,
+  "validation_start": "2011-10-14",
+  "validation_end": "2011-12-09",
+  "note": "SKU-level retail demand is sparse and intermittent; use MAE/WAPE alongside R2."
+}
